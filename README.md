@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/khushboo-kumar20/khushboo-kumar20/blob/361c2d3006c296a278ee5162cb248683d610e5a7/My_GitHub_Banner.png)
+![MasterHead](https://github.com/khushboo-kumar20/khushboo-kumar20/blob/df3a0852d5d94ab1932e4af807d273960c8f2e2b/My_GitHub_Banner.png)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Khushboo Kumar</h1>
 <h3 align="center">A passionate B.Tech undergrad who aspires to become a FULL STACK DEVELOPER</h3>
