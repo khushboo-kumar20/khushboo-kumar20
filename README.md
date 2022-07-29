@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumar</h1>
 <h3 align="center">A passionate B.Tech undergrad who aspires to become a FULL STACK DEVELOPER</h3>
 
-- 🔭 I’m currently working on **BVTechHub**
+- 🔭 I’m currently working on **Internship Project**
 
-- 🌱 I’m currently learning **Python, DSA**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 🤝 I’m looking for help with **WebDev, DSA**
 
