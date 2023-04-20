@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumar</h1>
 <h3 align="center">A passionate B.Tech undergrad who aspires to become a FULL STACK DEVELOPER</h3>
 
-- 🔭 I’m currently doing an internship from **C-DAC, Delhi**
+- 🔭 Former Project Intern at **C-DAC, Delhi**
 
 - 🌱 I’m currently learning **Spring Framework**
 
